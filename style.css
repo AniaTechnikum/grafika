@@ -1,0 +1,124 @@
+.zero {
+	width:855px;
+	height:850px;
+	background-color:#dddddd;
+	margin:auto;
+	}
+	
+	.ichi {
+	height:100px;
+	width:800px;
+	background-color:#aaaaaa;
+	margin-top:10px;
+     margin-left: 30px
+	}
+	
+	.nii {
+	border-radius: 10px;
+	height:21px;
+	width:835px;
+	background-color:#555555;
+	color:#ffffff;
+	box-shadow:3px 3px 6px black;
+	margin:auto;
+	margin-top:10px;
+        text-align: center;
+	}
+	
+	.san {
+	border-radius: 10px;
+	height:300px;
+	width:180px;
+	background-color:#555555;
+	color:#ffffff;
+	box-shadow:3px 3px 6px black;
+	float:left;
+	margin:auto;
+    text-decoration: none;
+	margin-top:10px;
+	margin-left:10px
+	
+	}
+.str{
+    margin-top: 10px;
+}
+	
+	.yon {
+	border-radius: 10px;
+	height:650px;
+	width:640px;
+	background-color:#555555;
+	box-shadow:3px 3px 6px black;
+	margin:auto;
+	text-align:center;
+	margin-top:10px;
+	margin-left:205px;
+	border: 1px solid #555555 
+	}
+	
+	.go {
+	height:300px;
+	width:630px;
+	background-color:grey;
+        margin:auto;
+        margin-top:10px;
+        color: white
+}
+
+    .teks{
+           margin-left: 10px; 
+        }
+.h3 {
+    text-align: center;
+}
+.jp1{
+    height:90px;
+    width:500px;
+    border-radius:10px;"
+}
+.jp2{
+    height:150px; 
+    width:200px;
+    float: right;
+}
+.pkt{
+    text-align: left;
+    font-size: medium;
+}
+.jp3{
+    height:150px; 
+    width:200px;
+    float: left;
+}
+.pkt1{
+       font-size: medium;
+    text-align: right;
+}
+.menu{
+text-decoration: none;
+    margin-top: 20px;
+    color:white;
+    line-height: 30px;
+    margin-left: 10px;
+}
+table,
+ th,
+ td,
+ tr {
+	border: 1px solid lightgray;
+	border-spacing: 0;
+	}
+th,
+td,
+tr {
+	padding: 5px;
+	}
+.pod{
+    border: 1px solid lightgray;
+    background-color:#1d5184; color:white;
+}
+.po{
+    background-color: white;
+    color:black;
+}
+	
